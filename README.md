@@ -13,6 +13,10 @@ docker compose версии, подходящей под условия, уст�
 Ссылка на форк репозитория https://github.com/g-timokhin/shvirtd-example-python/tree/main
 
 # Задача 3
+Запуск проекта
+![image](https://github.com/user-attachments/assets/56c38993-b152-4a12-8212-a9052f243094)
+![image](https://github.com/user-attachments/assets/128d53db-bf85-4cd8-8c5a-bd8a93457e9b)
+
 
 
 

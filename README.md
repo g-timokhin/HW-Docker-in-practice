@@ -18,15 +18,9 @@ docker compose версии, подходящей под условия, уст�
 ![image](https://github.com/user-attachments/assets/56c38993-b152-4a12-8212-a9052f243094)
 ![image](https://github.com/user-attachments/assets/128d53db-bf85-4cd8-8c5a-bd8a93457e9b)
 
-Запрос к адресу возвращает 503 ошибку
+Обращение к localhost
+![image](https://github.com/user-attachments/assets/90dab6d2-90ac-4d01-abb7-9e76b38ebde9)
 
-![image](https://github.com/user-attachments/assets/061d5402-2e35-4aef-ba9b-c944707f7bea)
-
-Проблема заключается в том, что сервис web не может запуститься
-![image](https://github.com/user-attachments/assets/c0095698-ac5b-4b12-a310-fc092d0591b5)
-
-Причина этого в том, что коннектор приложения не может подключиться к БД по указанному адресу
-![image](https://github.com/user-attachments/assets/b7599164-3a51-4d20-a1f6-b25f378cbaa6)
 
 
 

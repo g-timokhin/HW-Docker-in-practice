@@ -37,7 +37,9 @@ docker compose версии, подходящей под условия, уст�
 
 ![image](https://github.com/user-attachments/assets/0dbf908d-193d-4c4d-bbea-f233bd414e1e)
 
+
 Повторение SQL-запроса
+
 ![image](https://github.com/user-attachments/assets/aa287f41-f935-472e-8465-87906a0fba80)
 
 

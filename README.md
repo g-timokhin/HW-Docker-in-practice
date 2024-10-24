@@ -21,6 +21,27 @@ docker compose версии, подходящей под условия, уст�
 Обращение к localhost
 ![image](https://github.com/user-attachments/assets/90dab6d2-90ac-4d01-abb7-9e76b38ebde9)
 
+Подключение к БД
+![image](https://github.com/user-attachments/assets/8caa0086-f404-4445-9b11-e4045926e18e)
+
+Список баз
+![image](https://github.com/user-attachments/assets/94ebad66-7ccb-4cfc-9f06-1dfffe18131b)
+
+Просмотр данных в базе virtd
+![image](https://github.com/user-attachments/assets/4f79861d-a45c-4541-835c-3fe9dfcc9d6b)
+
+
+# Задача 4
+
+Запуск проверки сервиса, развернутого на ВМ
+
+![image](https://github.com/user-attachments/assets/0dbf908d-193d-4c4d-bbea-f233bd414e1e)
+
+Повторение SQL-запроса
+![image](https://github.com/user-attachments/assets/aa287f41-f935-472e-8465-87906a0fba80)
+
+
+
 
 
 

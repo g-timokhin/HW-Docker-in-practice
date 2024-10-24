@@ -13,21 +13,26 @@ docker compose версии, подходящей под условия, уст�
 Ссылка на форк репозитория https://github.com/g-timokhin/shvirtd-example-python/tree/main
 
 # Задача 3
+
 Запуск проекта
 
 ![image](https://github.com/user-attachments/assets/56c38993-b152-4a12-8212-a9052f243094)
 ![image](https://github.com/user-attachments/assets/128d53db-bf85-4cd8-8c5a-bd8a93457e9b)
 
 Обращение к localhost
+
 ![image](https://github.com/user-attachments/assets/90dab6d2-90ac-4d01-abb7-9e76b38ebde9)
 
 Подключение к БД
+
 ![image](https://github.com/user-attachments/assets/8caa0086-f404-4445-9b11-e4045926e18e)
 
 Список баз
+
 ![image](https://github.com/user-attachments/assets/94ebad66-7ccb-4cfc-9f06-1dfffe18131b)
 
 Просмотр данных в базе virtd
+
 ![image](https://github.com/user-attachments/assets/4f79861d-a45c-4541-835c-3fe9dfcc9d6b)
 
 

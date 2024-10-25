@@ -57,6 +57,22 @@ docker compose версии, подходящей под условия, уст�
 
 # Задача 6
 
+Используем dive для подключения к образу hashicorp/terraform:latest
+
+![image](https://github.com/user-attachments/assets/598efa16-1de3-48e8-a69c-97d0a166a32f)
+
+Найдем в файловой системе файл /bin/terraform
+ID слоя -- blobs 
+
+![image](https://github.com/user-attachments/assets/473886d2-79bb-4419-8e81-d1d3a7b93968)
+
+
+
+
+
+
+
+
 
 
 

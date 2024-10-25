@@ -62,9 +62,12 @@ docker compose версии, подходящей под условия, уст�
 ![image](https://github.com/user-attachments/assets/598efa16-1de3-48e8-a69c-97d0a166a32f)
 
 Найдем в файловой системе файл /bin/terraform
-ID слоя -- blobs 
+ID слоя -- blobs, Digest -- sha256:c3c3a5978391c2884975a1e49c4d3ee1e29dac201a59bf27685a1b750ad5e64a
 
 ![image](https://github.com/user-attachments/assets/473886d2-79bb-4419-8e81-d1d3a7b93968)
+
+![image](https://github.com/user-attachments/assets/997ddf10-06b9-4372-b790-e731aa26a5a1)
+
 
 
 

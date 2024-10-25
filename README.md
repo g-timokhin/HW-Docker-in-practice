@@ -78,6 +78,9 @@ ID слоя -- blobs, Digest -- sha256:c3c3a5978391c2884975a1e49c4d3ee1e29dac201
 
 # Задача 6.1
 
+Копирование файла из контейнера с помощью docker cp 
+
+![image](https://github.com/user-attachments/assets/b1118fae-86f7-48bb-be67-e8c259add098)
 
 
 

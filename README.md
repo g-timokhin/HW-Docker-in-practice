@@ -68,6 +68,19 @@ ID слоя -- blobs, Digest -- sha256:c3c3a5978391c2884975a1e49c4d3ee1e29dac201
 
 ![image](https://github.com/user-attachments/assets/997ddf10-06b9-4372-b790-e731aa26a5a1)
 
+Сохраним образ с помощью docker save
+
+![image](https://github.com/user-attachments/assets/fd742a02-7e93-44f0-b9da-3a3a30ccf7b6)
+
+Разархивируем нужный файл
+
+![image](https://github.com/user-attachments/assets/84c8aa56-db3c-4ccc-8bb2-5713aaaa13cd)
+
+# Задача 6.1
+
+
+
+
 
 
 
